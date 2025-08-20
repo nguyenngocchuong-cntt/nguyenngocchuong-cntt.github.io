@@ -1,0 +1,31 @@
+author_vn:
+  name   : "Nguyễn Ngọc Chương"
+  avatar : "/assets/images/avatar.jpg"
+  bio    : "Chuyên viên CNTT • An ninh mạng • Cloud • ERP SAP"
+  location: "TP.HCM, Việt Nam"
+  links:
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:johnpak7849@gmail.com"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://nguyenngocchuong-cntt.github.io/"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/in/yourprofile"
+
+author_en:
+  name   : "Nguyen Ngoc Chuong"
+  avatar : "/assets/images/avatar.jpg"
+  bio    : "IT Specialist • Cybersecurity • Cloud • ERP SAP"
+  location: "HCMC, Vietnam"
+  links:
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:johnpak7849@gmail.com"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://nguyenngocchuong-cntt.github.io/en/"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/in/yourprofile"
