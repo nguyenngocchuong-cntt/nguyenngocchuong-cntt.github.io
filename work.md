@@ -6,6 +6,9 @@ permalink: /work/
 
 # Kinh nghiệm làm việc
 
+## Hiện tại : 
+Tôi có nhiều kinh nghiệm trong việc triển khai trọn gói các dự án CNTT, bao gồm triển khai hạ tầng, cấu hình hệ thống, giải pháp an ninh mạng, phát triển phần mềm và tự động hóa quy trình, cũng như hỗ trợ kỹ thuật sau triển khai.
+
 ## Trưởng phòng CNTT – Học viện Công nghệ Thông tin & Thiết kế VTC  
 *06/2008 – 04/2024*
 
