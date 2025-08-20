@@ -1,6 +1,7 @@
 ---
 title: "About"
 permalink: /en/about/
+author_profile: true
 ---
 
 I’m **Nguyen Ngoc Chuong**, an IT Manager specializing in **Cybersecurity, Cloud, ERP SAP, and IT Infrastructure Management**.  
