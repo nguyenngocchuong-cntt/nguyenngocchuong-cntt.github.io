@@ -1,4 +1,3 @@
-
 ---
 title: "Giới thiệu"
 permalink: /about/
