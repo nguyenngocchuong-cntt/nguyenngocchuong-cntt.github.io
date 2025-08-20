@@ -1,9 +1,9 @@
 main:
-  - title: "Posts"
+  - title: "Bài viết"
     url: /posts/
-  - title: "Categories"
+  - title: "Chuyên mục"
     url: /categories/
-  - title: "Tags"
+  - title: "Thẻ"
     url: /tags/
-  - title: "About"
+  - title: "Giới thiệu"
     url: /about/
