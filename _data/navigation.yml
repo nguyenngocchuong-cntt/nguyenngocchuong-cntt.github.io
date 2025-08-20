@@ -1,4 +1,4 @@
-main:
+vi:
   - title: "Bài viết"
     url: /posts/
   - title: "Chuyên mục"
@@ -7,3 +7,13 @@ main:
     url: /tags/
   - title: "Giới thiệu"
     url: /about/
+
+en:
+  - title: "Posts"
+    url: /en/posts/
+  - title: "Categories"
+    url: /en/categories/
+  - title: "Tags"
+    url: /en/tags/
+  - title: "About"
+    url: /en/about/
