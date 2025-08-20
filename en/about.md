@@ -4,7 +4,7 @@ permalink: /en/about/
 author_profile: true
 ---
 
-I’m **Nguyen Ngoc Chuong**, an IT Manager specializing in **Cybersecurity, Cloud, ERP SAP, and IT Infrastructure Management**.  
+I’m **Nguyen Ngoc Chuong**, an IT Manager specializing in **Infrastructure IT, Cybersecurity, Cloud, ERP SAP, and IT Infrastructure Management**.  
 Currently Head of IT at VTC Academy, I manage a team of **50+ IT professionals**, ensuring secure and highly available systems with **99.9% uptime**.
 
 ### Strengths
