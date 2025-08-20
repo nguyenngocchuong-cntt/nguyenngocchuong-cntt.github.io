@@ -2,6 +2,9 @@
 layout: home
 title: "Trang chủ"
 classes: wide
+author_profile: true
+author: author_vn
+
 ---
 
 Xin chào, tôi là **Nguyễn Ngọc Chương** – Trưởng phòng CNTT với hơn 15 năm kinh nghiệm trong **An ninh mạng, Cloud, ERP SAP** và quản lý đội ngũ **50+ nhân sự**.
