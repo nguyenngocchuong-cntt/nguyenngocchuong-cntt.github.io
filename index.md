@@ -8,6 +8,9 @@ author: author_vn
 
 Xin chào, tôi là **Nguyễn Ngọc Chương** – Trưởng phòng CNTT với hơn 15 năm kinh nghiệm trong **Hạ tầng CNTT, An ninh mạng, Cloud, ERP SAP...** và quản lý đội ngũ **50+ nhân sự CNTT**.
 
+👉 [Xem CV (VN)](/assets/cv_nguyenngocchuong_vn.pdf) 
+👉 [Kinh nghiệm làm việc](/work/)
+
 ## 🖥️ Hạ tầng CNTT (IT Infrastructure)
 - **Trung tâm dữ liệu (Data Center)**: thiết kế, triển khai và vận hành hệ thống server vật lý và ảo hóa (VMware, Hyper-V, Proxmox).  
 - **Hệ thống mạng (Networking)**: quản lý LAN/WAN, VPN site-to-site & client-to-site, Wi-Fi enterprise, routing & switching (Cisco, Mikrotik, Fortinet).  
@@ -26,6 +29,3 @@ Azure, AWS, GCP, M365, Google Workspace, Backup & DR
 
 ## 📊 ERP
 SAP ERP (HR, Finance, Training Management)  
-
-👉 [Xem CV (VN)](/assets/cv_nguyenngocchuong_vn.pdf) · [CV (EN)](/assets/cv_nguyenngocchuong_en.pdf)  
-👉 [Kinh nghiệm làm việc](/work/) · [Blog](/categories/)
