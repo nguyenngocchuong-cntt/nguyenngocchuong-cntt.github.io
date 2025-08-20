@@ -3,6 +3,7 @@ layout: home
 title: ""
 permalink: /en/
 author_profile: true
+author: author_en
 ---
 
 Hello, I’m **Nguyen Ngoc Chuong** – an IT Manager with over 15 years of experience in **Cybersecurity, Cloud, ERP SAP**, and leading a team of 50+ IT professionals.
