@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Kinh nghiệm làm việc"
+title: ""
 permalink: /work/
 ---
 
