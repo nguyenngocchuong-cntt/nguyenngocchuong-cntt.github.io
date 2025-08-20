@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Trang chủ"
+title: "Nguyễn Ngọc Chương | IT Manager"
 classes: wide
 author_profile: true
 author: author_vn
