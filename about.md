@@ -4,7 +4,7 @@ permalink: /about/
 author_profile: true
 ---
 
-Tôi là **Nguyễn Ngọc Chương**, chuyên gia CNTT tập trung vào **An ninh mạng, Cloud, ERP SAP** và quản trị hạ tầng. Trong vai trò Trưởng phòng CNTT tại VTC Academy, tôi dẫn dắt **50+ nhân sự**, đảm bảo hệ thống vận hành an toàn với **uptime 99.9%**.
+Tôi là **Nguyễn Ngọc Chương**, chuyên gia CNTT tập trung vào **Hạ tầng CNTT, An ninh mạng, Cloud, ERP SAP** và quản trị hạ tầng. Trong vai trò Trưởng phòng CNTT tại VTC Academy, tôi dẫn dắt **50+ nhân sự**, đảm bảo hệ thống vận hành an toàn với **uptime 99.9%**.
 
 Thế mạnh:
 - Thiết kế & triển khai hạ tầng (Campus LAN/WAN, phòng máy, máy chủ)
