@@ -1,7 +1,9 @@
----
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/deaf4b9b-eb84-44e8-a57c-63c4bf96cf1a" />---
 layout: single
 title: "Work Experience"
 permalink: /en/work/
+author_profile: true
+author: author_en
 ---
 
 ## Currently
