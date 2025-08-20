@@ -4,7 +4,7 @@ title: "Nguyen Ngoc Chuong | IT Manager"
 permalink: /en/
 author_profile: true
 author: author_en
-nav: navigation_en
+nav: en
 ---
 
 Hello, I’m **Nguyen Ngoc Chuong** – an IT Manager with over 15 years of experience in **IT Infrastructure, Cybersecurity, Cloud, ERP SAP and more**, as well as managing a team of 50+ IT professionals.
