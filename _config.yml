@@ -1,7 +1,6 @@
-
 title: ""
 description: "Portfolio cá nhân + blog CNTT (VN/EN)"
-url: "" # điền https://nguyenngocchuong-cntt.github.io sau khi deploy
+url: "https://nguyenngocchuong-cntt.github.io" # điền domain khi deploy
 baseurl: ""
 
 # Dùng remote_theme của Minimal Mistakes (được GitHub Pages hỗ trợ)
@@ -27,6 +26,8 @@ plugins:
   - jekyll-include-cache
 
 # Navigation dùng _data/navigation.yml
+nav: true
+
 collections:
   posts:
     output: true
@@ -45,6 +46,3 @@ defaults:
     values:
       layout: "single"
       author_profile: true
-
-# Social sharing & SEO
-# minimal-mistakes có sẵn Open Graph
