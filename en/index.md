@@ -10,6 +10,7 @@ Hello, I’m **Nguyen Ngoc Chuong** – an IT Manager with over 15 years of expe
 
 👉 [View CV (EN)](/assets/cv_nguyenngocchuong_en.pdf) 
 
+
 👉 [Work Experience](/en/work/)
 
 
