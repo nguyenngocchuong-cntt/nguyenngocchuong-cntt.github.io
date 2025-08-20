@@ -8,7 +8,7 @@ author: author_en
 
 Hello, I’m **Nguyen Ngoc Chuong** – an IT Manager with over 15 years of experience in **IT Infrastructure, Cybersecurity, Cloud, ERP SAP and more**, as well as managing a team of 50+ IT professionals.
 
-👉 [View CV (EN)](/assets/files/cv_nguyenngocchuong_en.pdf) 
+👉 [View CV (EN)](/assets/cv_nguyenngocchuong_en.pdf) 
 👉 [Work Experience](/en/work/)
 
 
