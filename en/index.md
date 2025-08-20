@@ -1,6 +1,6 @@
 ---
 layout: home
-title: ""
+title: "Nguyen Ngoc Chuong | IT Manager"
 permalink: /en/
 author_profile: true
 author: author_en
