@@ -9,6 +9,7 @@ author: author_vn
 Xin chào, tôi là **Nguyễn Ngọc Chương** – Trưởng phòng CNTT với hơn 15 năm kinh nghiệm trong **Hạ tầng CNTT, An ninh mạng, Cloud, ERP SAP...** và quản lý đội ngũ **50+ nhân sự CNTT**.
 
 👉 [Xem CV (VN)](/assets/cv_nguyenngocchuong_vn.pdf) 
+
 👉 [Kinh nghiệm làm việc](/work/)
 
 ## 🖥️ Hạ tầng CNTT (IT Infrastructure)
