@@ -2,6 +2,8 @@
 layout: single
 title: ""
 permalink: /work/
+author_profile: true
+author: author_vn
 ---
 
 # Kinh nghiệm làm việc
